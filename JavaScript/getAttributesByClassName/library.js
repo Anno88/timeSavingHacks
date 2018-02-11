@@ -10,4 +10,3 @@ function getAttributesByClassName (attribute,className){
 	}
 	return attr;
 }
-console.log(test);
